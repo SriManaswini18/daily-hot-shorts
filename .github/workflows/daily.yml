@@ -7,22 +7,19 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # THIS SECTION BELOW IS THE KEY
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v3
-        with:
-          fetch-depth: 0 # Fetches all history so it can push safely
 
       - name: Run Agent
         run: python agent.py
 
-      - name: Commit and Push
+      - name: Save the News
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          # This line prevents failure if there's no new news
-          git commit -m "Daily News Update" || echo "No changes to commit"
-          # This pushes changes back to your repo
-          git push origin main || echo "Nothing to push"
+          git commit -m "Updated news for today" || echo "No changes"
+          git push
