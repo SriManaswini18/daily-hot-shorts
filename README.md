@@ -3,17 +3,17 @@ Last Updated: March 05, 2026
 
 ## 📺 Today's YouTube Shorts Scripts
 
-### 1. 🚢 Indian Ocean Crisis
-**Hook:** "A US Submarine just sank an Iranian Warship. Is this War?"
-**Script:** "Breaking news from the Indian Ocean. A US submarine just sank the Iranian frigate IRIS Jamaran off the coast of Sri Lanka. 87 people are reported dead. Tensions are at an all-time high. Is this a localized clash or the start of something global? Comment your thoughts below!"
+### 1. Congress MP Imran Masood meets representative of Iran’s late Supreme leader, offers condolences - The Hindu
+**Hook:** "You won't believe what's happening right now with Congress MP Imran Masood meets representative of Iran’s late Supreme leader, offers condolences!"
+**Script:** "Huge news today! Congress MP Imran Masood meets representative of Iran’s late Supreme leader, offers condolences - The Hindu. This is changing everything we thought we knew. What do you think? Is this a win or a fail? Comment below!"
 
-### 2. 🏏 T20 World Cup: 33-Ball Century!
-**Hook:** "Finn Allen just broke Cricket! 100 runs in 33 balls!"
-**Script:** "History made at the T20 World Cup! New Zealand’s Finn Allen just smashed the fastest century ever—hitting 100 in just 33 balls against South Africa! The Black Caps are headed to the final. Is Allen the most dangerous hitter in the world right now? 🔥"
+### 2. 'War at speed of thought': If Claude AI can help kill a country's leader, do you really think your normal job is safe? - WION
+**Hook:** "You won't believe what's happening right now with 'War at speed of thought': If Claude AI can help kill a country's leader, do you really think your normal job is safe?!"
+**Script:** "Huge news today! 'War at speed of thought': If Claude AI can help kill a country's leader, do you really think your normal job is safe? - WION. This is changing everything we thought we knew. What do you think? Is this a win or a fail? Comment below!"
 
-### 3. 📉 Rupee Hits 92
-**Hook:** "The Indian Rupee just crashed. Here's why you should care."
-**Script:** "For the first time ever, the Rupee has crossed 92 against the US Dollar. With the West Asia conflict hitting oil supplies, everything from iPhones to petrol is about to get pricier. Is your wallet ready for 2026? Double tap if you're worried about inflation!"
+### 3. Around 200 compliant tankers stranded as Strait of Hormuz closure freezes Gulf traffic - Lloyd's List
+**Hook:** "You won't believe what's happening right now with Around 200 compliant tankers stranded as Strait of Hormuz closure freezes Gulf traffic!"
+**Script:** "Huge news today! Around 200 compliant tankers stranded as Strait of Hormuz closure freezes Gulf traffic - Lloyd's List. This is changing everything we thought we knew. What do you think? Is this a win or a fail? Comment below!"
 
 ---
-*Next update: Tomorrow at 00:00 UTC*
+*Generated automatically by your GitHub Agent.*
