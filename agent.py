@@ -9,31 +9,21 @@ def get_live_news():
         response = urllib.request.urlopen(url)
         tree = ET.parse(response)
         root = tree.getroot()
-        
-        # Get the first 3 trending titles
         news_items = []
         for item in root.findall('./channel/item')[:3]:
             news_items.append(item.find('title').text)
         return news_items
     except:
-        return ["Cricket World Cup Updates", "Global Tech Trends", "Market News"]
+        return ["Cricket Updates", "Tech Trends", "World News"]
 
-def create_shorts_scripts():
+def create_shorts():
     topics = get_live_news()
     today = datetime.date.today().strftime("%B %d, %Y")
-    
-    content = f"# 🤖 Daily AI News Agent\n"
-    content += f"Last Updated: {today}\n\n"
-    content += f"## 📺 Today's YouTube Shorts Scripts\n\n"
-    
-    for i, topic in enumerate(topics, 1):
-        content += f"### {i}. {topic}\n"
-        content += f"**Hook:** \"You won't believe what's happening right now with {topic.split(' - ')[0]}!\"\n"
-        content += f"**Script:** \"Huge news today! {topic}. This is changing everything we thought we knew. What do you think? Is this a win or a fail? Comment below!\"\n\n"
-    
-    content += "---\n*Generated automatically by your GitHub Agent.*"
+    content = f"# 🤖 Daily News Agent\nLast Updated: {today}\n\n"
+    for i, t in enumerate(topics, 1):
+        content += f"### {i}. {t}\n**Hook:** \"This is big! {t}\"\n**Script:** \"Breaking news for {today}! {t}. This is trending right now. What do you think?\"\n\n"
     return content
 
-# Save to README.md
 with open("README.md", "w", encoding="utf-8") as f:
-    f.write(create_shorts_scripts())
+    f.write(create_shorts())
+    
