@@ -7,19 +7,25 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    # THIS SECTION BELOW IS THE KEY
     permissions:
-      contents: write
+      contents: write  # This tells GitHub to allow the agent to save files
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout Repo
+        uses: actions/checkout@v4 # Updated version for 2026
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
       - name: Run Agent
         run: python agent.py
 
-      - name: Save the News
+      - name: Commit and Push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git commit -m "Updated news for today" || echo "No changes"
-          git push
+          # This line prevents the "Red X" if the news is the same
+          git commit -m "Daily News Update" || exit 0
+          git push origin main
