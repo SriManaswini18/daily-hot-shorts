@@ -1,15 +1,15 @@
 # 🤖 Daily News Agent
-Last Updated: March 07, 2026
+Last Updated: March 08, 2026
 
-### 1. Vehicles burnt, roads blocked: Protests in Delhi's Uttam Nagar after man beaten to death on Holi | India News - Hindustan Times
-**Hook:** "This is big! Vehicles burnt, roads blocked: Protests in Delhi's Uttam Nagar after man beaten to death on Holi | India News - Hindustan Times"
-**Script:** "Breaking news for March 07, 2026! Vehicles burnt, roads blocked: Protests in Delhi's Uttam Nagar after man beaten to death on Holi | India News - Hindustan Times. This is trending right now. What do you think?"
+### 1. Nepal election results highlights: Balendra Shah's RSP makes history, registers landmark victory | World News - Hindustan Times
+**Hook:** "This is big! Nepal election results highlights: Balendra Shah's RSP makes history, registers landmark victory | World News - Hindustan Times"
+**Script:** "Breaking news for March 08, 2026! Nepal election results highlights: Balendra Shah's RSP makes history, registers landmark victory | World News - Hindustan Times. This is trending right now. What do you think?"
 
-### 2. Nepal Election 2026 Results Live Updates: Balen Shah's RSP Close To Victory, Celebrations On Streets - NDTV
-**Hook:** "This is big! Nepal Election 2026 Results Live Updates: Balen Shah's RSP Close To Victory, Celebrations On Streets - NDTV"
-**Script:** "Breaking news for March 07, 2026! Nepal Election 2026 Results Live Updates: Balen Shah's RSP Close To Victory, Celebrations On Streets - NDTV. This is trending right now. What do you think?"
+### 2. Delhi heads into summers with hottest March week in 50 yrs, mercury up in north India | India News - Hindustan Times
+**Hook:** "This is big! Delhi heads into summers with hottest March week in 50 yrs, mercury up in north India | India News - Hindustan Times"
+**Script:** "Breaking news for March 08, 2026! Delhi heads into summers with hottest March week in 50 yrs, mercury up in north India | India News - Hindustan Times. This is trending right now. What do you think?"
 
-### 3. Is this the fastest-moving war in history? For Iran, AI reduced the ‘kill chain’ to seconds - The Times of India
-**Hook:** "This is big! Is this the fastest-moving war in history? For Iran, AI reduced the ‘kill chain’ to seconds - The Times of India"
-**Script:** "Breaking news for March 07, 2026! Is this the fastest-moving war in history? For Iran, AI reduced the ‘kill chain’ to seconds - The Times of India. This is trending right now. What do you think?"
+### 3. Ali Larijani — the philosopher who seeks vengeance - The Hindu
+**Hook:** "This is big! Ali Larijani — the philosopher who seeks vengeance - The Hindu"
+**Script:** "Breaking news for March 08, 2026! Ali Larijani — the philosopher who seeks vengeance - The Hindu. This is trending right now. What do you think?"
 
