@@ -1,15 +1,15 @@
 # 🤖 Daily News Agent
-Last Updated: March 09, 2026
+Last Updated: March 10, 2026
 
-### 1. Khamenei's Son Mojtaba Named Iran's New Supreme Leader Hours After Trump's Warning - NDTV
-**Hook:** "This is big! Khamenei's Son Mojtaba Named Iran's New Supreme Leader Hours After Trump's Warning - NDTV"
-**Script:** "Breaking news for March 09, 2026! Khamenei's Son Mojtaba Named Iran's New Supreme Leader Hours After Trump's Warning - NDTV. This is trending right now. What do you think?"
+### 1. 'Iran war to end soon,' says Donald Trump, warns Tehran not to try 'anything cute' - The Times of India
+**Hook:** "This is big! 'Iran war to end soon,' says Donald Trump, warns Tehran not to try 'anything cute' - The Times of India"
+**Script:** "Breaking news for March 10, 2026! 'Iran war to end soon,' says Donald Trump, warns Tehran not to try 'anything cute' - The Times of India. This is trending right now. What do you think?"
 
-### 2. Nepal election 2026 results - follow live - BBC
-**Hook:** "This is big! Nepal election 2026 results - follow live - BBC"
-**Script:** "Breaking news for March 09, 2026! Nepal election 2026 results - follow live - BBC. This is trending right now. What do you think?"
+### 2. Mojtaba Khamenei, Ayatollah Khamenei's son named as Iran's next Supreme Leader - The Hindu
+**Hook:** "This is big! Mojtaba Khamenei, Ayatollah Khamenei's son named as Iran's next Supreme Leader - The Hindu"
+**Script:** "Breaking news for March 10, 2026! Mojtaba Khamenei, Ayatollah Khamenei's son named as Iran's next Supreme Leader - The Hindu. This is trending right now. What do you think?"
 
-### 3. Indian among 2 killed as missile hits residential locality in Saudi Arabia - India Today
-**Hook:** "This is big! Indian among 2 killed as missile hits residential locality in Saudi Arabia - India Today"
-**Script:** "Breaking news for March 09, 2026! Indian among 2 killed as missile hits residential locality in Saudi Arabia - India Today. This is trending right now. What do you think?"
+### 3. West Asia dominates Lok Sabha; resolution on Speaker’s removal not taken up - The Hindu
+**Hook:** "This is big! West Asia dominates Lok Sabha; resolution on Speaker’s removal not taken up - The Hindu"
+**Script:** "Breaking news for March 10, 2026! West Asia dominates Lok Sabha; resolution on Speaker’s removal not taken up - The Hindu. This is trending right now. What do you think?"
 
