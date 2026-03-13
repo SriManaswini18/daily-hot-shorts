@@ -1,15 +1,15 @@
 # 🤖 Daily News Agent
-Last Updated: March 12, 2026
+Last Updated: March 13, 2026
 
-### 1. 'Hit them harder than any country': Trump says Iran paying price of '47 years of damage' | World News - Hindustan Times
-**Hook:** "This is big! 'Hit them harder than any country': Trump says Iran paying price of '47 years of damage' | World News - Hindustan Times"
-**Script:** "Breaking news for March 12, 2026! 'Hit them harder than any country': Trump says Iran paying price of '47 years of damage' | World News - Hindustan Times. This is trending right now. What do you think?"
+### 1. Reports of Iran allowing Indian ships through Strait of Hormuz ‘premature’: Centre - The Hindu
+**Hook:** "This is big! Reports of Iran allowing Indian ships through Strait of Hormuz ‘premature’: Centre - The Hindu"
+**Script:** "Breaking news for March 13, 2026! Reports of Iran allowing Indian ships through Strait of Hormuz ‘premature’: Centre - The Hindu. This is trending right now. What do you think?"
 
-### 2. India-bound Thai-flagged cargo ship attacked in Strait of Hormuz - The Hindu
-**Hook:** "This is big! India-bound Thai-flagged cargo ship attacked in Strait of Hormuz - The Hindu"
-**Script:** "Breaking news for March 12, 2026! India-bound Thai-flagged cargo ship attacked in Strait of Hormuz - The Hindu. This is trending right now. What do you think?"
+### 2. 'No hostile or friendly fire': US refueling aircraft crashes in western Iraq; rescue operations on - The Times of India
+**Hook:** "This is big! 'No hostile or friendly fire': US refueling aircraft crashes in western Iraq; rescue operations on - The Times of India"
+**Script:** "Breaking news for March 13, 2026! 'No hostile or friendly fire': US refueling aircraft crashes in western Iraq; rescue operations on - The Times of India. This is trending right now. What do you think?"
 
-### 3. 'Allah is kind': J&K CM Omar Abdullah questions security after attack on father Farooq Abdullah | India News - Hindustan Times
-**Hook:** "This is big! 'Allah is kind': J&K CM Omar Abdullah questions security after attack on father Farooq Abdullah | India News - Hindustan Times"
-**Script:** "Breaking news for March 12, 2026! 'Allah is kind': J&K CM Omar Abdullah questions security after attack on father Farooq Abdullah | India News - Hindustan Times. This is trending right now. What do you think?"
+### 3. "Expressed Concern Over Loss Of Lives": PM Holds Talks With Iran President - NDTV
+**Hook:** "This is big! "Expressed Concern Over Loss Of Lives": PM Holds Talks With Iran President - NDTV"
+**Script:** "Breaking news for March 13, 2026! "Expressed Concern Over Loss Of Lives": PM Holds Talks With Iran President - NDTV. This is trending right now. What do you think?"
 
